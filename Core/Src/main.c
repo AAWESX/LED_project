@@ -106,7 +106,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-    
+    HAL_Delay(300);
       OS_ADC_DMA();
       HAL_Delay(300);
 //      OS_ADC_Config();
