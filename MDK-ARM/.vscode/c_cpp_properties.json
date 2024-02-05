@@ -3,16 +3,16 @@
         {
             "name": "LED_project",
             "includePath": [
-                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED_project\\Core\\Inc",
-                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED_project\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED_project\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED_project\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED_project\\Drivers\\CMSIS\\Include",
-                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED_project\\HARDWARE",
-                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED_project\\XK_Drieser",
-                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED_project\\MDK-ARM",
-                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED_project\\Core\\Src",
-                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED_project\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED\\Core\\Inc",
+                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED\\Drivers\\CMSIS\\Include",
+                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED\\HARDWARE",
+                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED\\XK_Drieser",
+                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED\\MDK-ARM",
+                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED\\Core\\Src",
+                "c:\\Users\\XK_System\\Desktop\\Ose_project\\LED\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
